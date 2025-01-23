@@ -165,12 +165,6 @@ ul.list-3 li span.date span {
 	float:left;
 	color:#fff;
 }
-h1 {
-	background: url(../images/logo.png) 15px 0px no-repeat;
-	width: 10px;
-	box-align: center;
-	line-height:60px;
-}
 ul.list-3 li span.extra-wrap {
 	font-size:14px;
 	color:#6f6f6f;
